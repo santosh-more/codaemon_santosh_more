@@ -1,0 +1,60 @@
+/* You can add global styles to this file, and also import other style files */
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.col-centered-half {
+    float: none;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.pad-bt-15 {
+    padding-bottom: 15px;
+}
+
+.pad-top-15 {
+    padding-top: 15px;
+}
+
+.mobile {
+    display: none;
+}
+
+.table-responsive .table {
+    max-width: none;
+}
+
+.logo {
+    width: 150px;
+    position: absolute;
+    top: 5px;
+}
+
+@media screen and (min-width:320px) and (max-width:448px) {
+    .mobile {
+        display: block;
+    }
+    .tabAndDesktop {
+        display: none;
+    }
+    .col-centered-half-mobile {
+        float: none;
+        margin: 0 auto;
+        width: 50%;
+    }
+    .col-centered-half-mobile>.btn {
+        width: 100%;
+    }
+}
+
+@media screen and (width:768px) {
+    .mobile {
+        display: block;
+    }
+    .tabAndDesktop {
+        display: none;
+    }
+}
