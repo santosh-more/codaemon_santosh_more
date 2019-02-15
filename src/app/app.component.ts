@@ -46,11 +46,13 @@ export class AppComponent {
       let rVal = Math.floor(Math.random() * 10);
       if ((this.progressPer + rVal) < 100) this.progressPer += rVal;
       else {
-        clearInterval(progress);
         this.progressPer = 100;
-        this.isInProgress = false;
+        setTimeout(()=>{
+          this.isInProgress = false;
+          clearInterval(progress);
+        },500);
       }
-    }, 300);
+    }, 200);
   }
 
 }
