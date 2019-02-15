@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg enable-background="new 0 0 974 204" version="1.1" viewBox="0 0 974 204" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<switch>
+	<foreignObject width="1" height="1" requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+	</foreignObject>
+	<g>
+				<path d="m66.053 152.76h-9.093s0 20.324-5.348 37.973c46.396 20.859 94.733 8.224 106.97 0 0 0 38.708-18.251 37.438-66.319-3.076-45.863-29.283-67.926-59.367-75.412-25.004-6.82-56.292-4.814-79.156 9.092l-5.883 14.976s27.812-19.255 64.715-10.697c36.904 8.558 47.601 44.927 47.601 64.716s-6.167 59.68-56.693 62.576c-23.32 0.031-35.033-10.162-35.033-10.162s-4.218-3.619-5.616-10.162c-1.47-6.888-0.533-16.581-0.533-16.581z" fill="#1A3A62"/>
+				<path d="m133.47 48.199 9.093 2.483s0-19.766 5.348-37.415c-46.396-20.858-94.733-8.223-106.97 0 0 0-38.708 18.251-37.438 66.32 3.076 45.863 29.283 67.925 59.367 75.412 25.004 6.82 56.292 4.814 79.156-9.092l5.883-14.976s-27.812 19.255-64.715 10.697c-36.904-8.558-47.601-44.927-47.601-64.716s6.167-59.68 56.693-62.576c23.32-0.032 35.033 10.162 35.033 10.162s4.218 3.619 5.616 10.162c1.47 6.887 0.533 13.539 0.533 13.539z" fill="#10253F"/>
+			<text transform="translate(213.48 140.29)" fill="#10253F" font-family="'Broadway'" font-size="129.82">Codaemon</text>
+	</g>
+</switch>
+</svg>
